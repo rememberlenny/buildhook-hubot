@@ -1,0 +1,22 @@
+{
+  "name": "buildhook-hubot",
+  "version": "0.0.0",
+  "description": "Integration with buildhook.com for hubot",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Test'("
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rememberlenny/buildhook-hubot.git"
+  },
+  "keywords": [
+    "hubot",
+    "buildhook"
+  ],
+  "author": "rememberlenny",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rememberlenny/buildhook-hubot/issues"
+  }
+}
