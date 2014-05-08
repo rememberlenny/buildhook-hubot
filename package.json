@@ -2,7 +2,7 @@
   "name": "buildhook-hubot",
   "version": "0.0.0",
   "description": "Integration with buildhook.com for hubot",
-  "main": "index.js",
+  "main": "index.coffee",
   "scripts": {
     "test": "console.log('Test'("
   },
